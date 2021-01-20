@@ -1,0 +1,42 @@
+[
+	{
+		"name": KAFKA_BROKER,
+		"value": "kafka://kafka1"
+	},
+ 
+	{
+		"name": KAFKA_EVENTS_TOPIC,
+		"value": "user-events-pre"
+	},
+ 
+	{
+		"name": KAFKA_NODE_TOPIC,
+		"value": "storyline.users"
+	},
+ 
+	{
+		"name": KAFKA_EDGE_TOPIC,
+		"value": "storyline.friends"
+	},
+ 
+	{
+		"name": ARANGODB_URL,
+		"value": "http://arango:8529"
+	},
+ 
+	{
+		"name": ARANGODB_USERNAME,
+		"value": "root"
+	},
+ 
+	{
+		"name": ARANGODB_PASSWORD,
+		"value": "test123"
+	},
+ 
+	{
+		"name": ARANGODB_NAME,
+		"value": "storyline"
+	},
+ 
+]

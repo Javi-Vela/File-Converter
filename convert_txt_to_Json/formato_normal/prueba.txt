@@ -1,0 +1,12 @@
+esto es una prueba
+
+ esti es una prueba
+ENV KAFKA_BROKER "kafka://kafka1"
+ENV KAFKA_EVENTS_TOPIC "user-events-pre"
+ENV KAFKA_NODE_TOPIC "storyline.users"
+ENV KAFKA_EDGE_TOPIC "storyline.friends"
+ENV ARANGODB_URL "http://arango:8529"
+ENV ARANGODB_USERNAME "root"
+ENV ARANGODB_PASSWORD "test123"
+ENV ARANGODB_NAME "storyline"
+	estu es una prueba

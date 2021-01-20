@@ -1,0 +1,12 @@
+[
+	{
+		"name": ARANGODB_USERNAME,
+		"value": "velaaaaaa"
+	},
+ 
+	{
+		"name": ARANGODB_PASSWORD,
+		"value": "1231221222222"
+	},
+ 
+]
